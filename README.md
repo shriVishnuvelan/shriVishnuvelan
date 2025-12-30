@@ -425,9 +425,6 @@ Data Analysis   █████████░░░░░░░░░░░   4
 - ✅ Complete PGP in Data Science and Engineering
 - ✅ Build 2 major data science projects
 - ✅ Master React fundamentals and build production app
-- 🔄 Deploy all projects with live demos
-- 🔄 Contribute to open-source projects
-- 🔄 Secure first role as Data Scientist or Frontend Developer
 - 🔄 Learn advanced React patterns (Context API, React Router)
 - 🔄 Explore data visualization libraries (D3.js, Plotly)
 

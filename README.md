@@ -294,9 +294,6 @@ App.jsx (Main)
 - Professional-grade code organization
 - Production-ready application
 
-**🔗 Live Demo**: [View Live](your-deployed-link-here)  
-**💻 Source Code**: [GitHub Repository](https://github.com/shriVishnuvelan/math-tricks-app)
-
 </details>
 
 ---

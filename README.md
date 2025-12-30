@@ -50,7 +50,6 @@ I'm a **recent graduate** and aspiring **Data Scientist/Analyst** with a growing
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - **Core Technologies**: React 18, JavaScript ES6+, HTML5, CSS3
 - **React Concepts**: 
@@ -299,20 +298,6 @@ App.jsx (Main)
 **💻 Source Code**: [GitHub Repository](https://github.com/shriVishnuvelan/math-tricks-app)
 
 </details>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriVishnuvelan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shriVishnuvelan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shriVishnuvelan&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)
-
-</div>
 
 ---
 

@@ -294,6 +294,10 @@ App.jsx (Main)
 - Professional-grade code organization
 - Production-ready application
 
+**🔗 Live Demo**: [View Live](https://math-tricks-app-v.netlify.app/)  
+**💻 Source Code**: [GitHub Repository](https://github.com/shriVishnuvelan/math-tricks-app)
+
+
 </details>
 
 ---
